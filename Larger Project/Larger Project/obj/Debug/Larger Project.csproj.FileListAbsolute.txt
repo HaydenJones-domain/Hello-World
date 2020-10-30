@@ -1,0 +1,6 @@
+C:\Users\Hayden\source\repos\Larger Project\Larger Project\bin\Debug\Larger Project.exe.config
+C:\Users\Hayden\source\repos\Larger Project\Larger Project\bin\Debug\Larger Project.exe
+C:\Users\Hayden\source\repos\Larger Project\Larger Project\bin\Debug\Larger Project.pdb
+C:\Users\Hayden\source\repos\Larger Project\Larger Project\obj\Debug\Larger Project.csproj.CoreCompileInputs.cache
+C:\Users\Hayden\source\repos\Larger Project\Larger Project\obj\Debug\Larger Project.exe
+C:\Users\Hayden\source\repos\Larger Project\Larger Project\obj\Debug\Larger Project.pdb

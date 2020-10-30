@@ -1,0 +1,8 @@
+Beacon
+Blinker
+Block
+DisgruntledPulsar
+Glider
+PentaDecathlon
+Pulsar
+rand2
